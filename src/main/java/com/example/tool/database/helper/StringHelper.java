@@ -1,4 +1,4 @@
-package com.example.tool.helper;
+package com.example.tool.database.helper;
 
 public class StringHelper {
 	/**

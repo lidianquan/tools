@@ -1,10 +1,10 @@
-package com.example.tool.helper;
+package com.example.tool.database.helper;
 
-import com.example.tool.generator.model.KeyAndValue;
-import com.example.tool.generator.model.Row;
-import com.example.tool.generator.model.Table;
-import com.example.tool.generator.model.ColumnDesc;
-import com.example.tool.constant.Constant;
+import com.example.tool.database.generator.model.KeyAndValue;
+import com.example.tool.database.generator.model.Row;
+import com.example.tool.database.generator.model.Table;
+import com.example.tool.database.generator.model.ColumnDesc;
+import com.example.tool.database.constant.Constant;
 
 import java.sql.*;
 import java.util.ArrayList;

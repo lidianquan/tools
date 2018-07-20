@@ -1,11 +1,11 @@
-package com.example.tool.helper;
+package com.example.tool.database.helper;
 
 
 
 
-import com.example.tool.generator.model.Column;
-import com.example.tool.generator.model.Table;
-import com.example.tool.constant.Constant;
+import com.example.tool.database.generator.model.Column;
+import com.example.tool.database.generator.model.Table;
+import com.example.tool.database.constant.Constant;
 import org.apache.velocity.Template;
 import org.apache.velocity.VelocityContext;
 import org.apache.velocity.app.VelocityEngine;

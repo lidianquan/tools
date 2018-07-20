@@ -1,8 +1,8 @@
-package com.example.tool;
+package com.example.tool.database;
 
 
-import com.example.tool.generator.thread.JpaFileThread;
-import com.example.tool.helper.DbHelper;
+import com.example.tool.database.generator.thread.JpaFileThread;
+import com.example.tool.database.helper.DbHelper;
 
 import java.util.List;
 import java.util.concurrent.ExecutorService;

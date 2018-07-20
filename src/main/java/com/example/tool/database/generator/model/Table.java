@@ -1,7 +1,7 @@
-package com.example.tool.generator.model;
+package com.example.tool.database.generator.model;
 
 
-import com.example.tool.helper.StringHelper;
+import com.example.tool.database.helper.StringHelper;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.example.tool.generator.model;
+package com.example.tool.database.generator.model;
 
 import java.sql.Blob;
 import java.sql.Date;

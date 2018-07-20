@@ -1,9 +1,9 @@
-package com.example.tool.generator.thread;
+package com.example.tool.database.generator.thread;
 
-import com.example.tool.generator.model.Table;
-import com.example.tool.helper.DbHelper;
-import com.example.tool.helper.VelocityHelper;
-import com.example.tool.constant.Constant;
+import com.example.tool.database.generator.model.Table;
+import com.example.tool.database.helper.DbHelper;
+import com.example.tool.database.helper.VelocityHelper;
+import com.example.tool.database.constant.Constant;
 
 /**
  * Created by lidianquan on 2018/7/12.

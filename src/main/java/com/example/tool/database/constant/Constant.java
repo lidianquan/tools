@@ -1,6 +1,4 @@
-package com.example.tool.constant;
-
-import org.springframework.util.ResourceUtils;
+package com.example.tool.database.constant;
 
 /**
  * Created by if on 2017/12/1.

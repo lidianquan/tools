@@ -1,4 +1,4 @@
-package com.example.tool.generator.model;
+package com.example.tool.database.generator.model;
 
 /**
  * Created by lidianquan on 2018/7/12.

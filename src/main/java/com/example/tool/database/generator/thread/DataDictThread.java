@@ -1,8 +1,8 @@
-package com.example.tool.generator.thread;
+package com.example.tool.database.generator.thread;
 
-import com.example.tool.generator.model.ColumnDesc;
-import com.example.tool.helper.DbHelper;
-import com.example.tool.generator.utils.PoiUtil;
+import com.example.tool.database.generator.model.ColumnDesc;
+import com.example.tool.database.helper.DbHelper;
+import com.example.tool.database.generator.utils.PoiUtil;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.example.tool.domain;
+package com.example.tool.database.domain;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
